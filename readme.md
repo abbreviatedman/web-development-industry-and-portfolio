@@ -2,7 +2,7 @@
 
 ### Course Overview
 
-This 4-day course has three main objectives:
+This 4-day Noble Desktop course has three main objectives:
 
 1. To provide an overview of the web development industry.
 2. To prepare the student for job interviews in the tech field.
