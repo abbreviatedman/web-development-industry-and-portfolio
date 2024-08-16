@@ -23,7 +23,6 @@ We'll be discussing the following roles:
 - DevOps Engineers
 - Web and UI/UX Designers
 - Product and Project Managers
-- Summary and Takeaway
 
 ---
 
