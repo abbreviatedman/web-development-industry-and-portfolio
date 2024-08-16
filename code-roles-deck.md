@@ -298,7 +298,7 @@ We'll be discussing the following roles:
 
 #### Summary and Key Takeaway
 
-As someone interested in software development, understanding these roles can help you identify your interests and strengths, guiding your career path.
+As someone in software development, understanding these roles can help you identify your interests and strengths, guiding your career path.
 
 There are many roles in software development, so explore and find what suits you best!
 
