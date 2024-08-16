@@ -6,6 +6,10 @@ Noble Desktop
 
 ---
 
+![](./assets/sdlc.png)
+
+---
+
 #### No One Role
 
 There are many, many possible roles a developer can have. We'll discuss a few, looking at what their needs, expectations, and focuses are.
@@ -23,6 +27,12 @@ We'll be discussing the following roles:
 - DevOps Engineers
 - Web and UI/UX Designers
 - Product and Project Managers
+
+---
+
+Front-End Developers
+
+![](./assets/front-end-tools.jpg)
 
 ---
 
@@ -53,6 +63,12 @@ We'll be discussing the following roles:
 - **Empathy for Users:** Prioritizes user experience, ensuring the interface is easy to navigate and visually appealing.
 - **Attention to Detail:** Focuses on design and code precision for a seamless user experience.
 - **Adaptability:** Keeps up with design trends and technologies, ensuring the product remains relevant.
+
+---
+
+Back-End Developers
+
+![](./assets/back-end-tools.jpg)
 
 ---
 
@@ -95,6 +111,12 @@ We'll be discussing the following roles:
 
 ---
 
+Full-Stack Developer
+
+![](./assets/full-stack.jpg)
+
+---
+
 #### Full-Stack Developers: Skills and Tools
 
 - **Skills Required:**
@@ -112,6 +134,12 @@ We'll be discussing the following roles:
 - **Versatility:** Comfortable switching between front-end and back-end tasks as needed.
 - **Holistic Understanding:** Understands how all parts of the application interact for seamless integration.
 - **Time Management:** Efficiently juggles multiple responsibilities to deliver features on time.
+
+---
+
+QA Engineer
+
+![](./assets/qa-engineer.jpg)
 
 ---
 
@@ -145,6 +173,11 @@ We'll be discussing the following roles:
 
 ---
 
+DevOps Engineer
+![](./assets/devops.jpg)
+
+---
+
 #### DevOps Engineers: General Info
 
 - **Focus:** Bridging development and operations, ensuring continuous integration and delivery.
@@ -172,6 +205,12 @@ We'll be discussing the following roles:
 - **Automation Mindset:** Seeks opportunities to automate processes, reducing manual effort and errors.
 - **Collaboration Skills:** Bridges the gap between development and operations, ensuring smooth releases.
 - **Problem-Solving:** Quickly identifies and resolves issues in production environments, minimizing downtime.
+
+---
+
+Web Designers
+
+![](./assets/web-designer.jpg)
 
 ---
 
@@ -205,6 +244,12 @@ We'll be discussing the following roles:
 
 ---
 
+UI/UX Designers
+
+![](./assets/ui-ux-designer.png)
+
+---
+
 #### UI/UX Designers: General Info
 
 - **Focus:** User interface (UI) and user experience (UX) design, ensuring that products are intuitive and user-friendly.
@@ -235,6 +280,12 @@ We'll be discussing the following roles:
 
 ---
 
+Project Managers
+
+![](./assets/project-manager.jpg)
+
+---
+
 #### Project Managers: General Info
 
 - **Focus:** Planning, executing, and closing projects, ensuring they are completed on time, within scope, and on budget.
@@ -262,6 +313,12 @@ We'll be discussing the following roles:
 - **Organizational Skills:** Effective project managers are highly organized, capable of managing multiple tasks, timelines, and resources.
 - **Communication:** They excel at keeping all stakeholders informed and engaged, ensuring everyone is aligned with the project goals.
 - **Problem-Solving:** They anticipate and address challenges proactively, ensuring that the project stays on track and within scope.
+
+---
+
+Product Managers
+
+![](./assets/product-manager.png)
 
 ---
 
@@ -303,4 +360,10 @@ There are many roles in software development, so explore and find what suits you
 
 ---
 
+![](./assets/sdlc.png)
+
+---
+
 ## What Questions Do You Have?
+
+![](./assets/questions.gif)
