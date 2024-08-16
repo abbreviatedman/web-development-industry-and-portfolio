@@ -55,7 +55,6 @@ The web development industry is constantly evolving, with new technologies and t
 - Serverless architecture
 - Microservices
 - GraphQL
-- TypeScript
 - Server-side rendering
 
 ##### Skills and Tools
